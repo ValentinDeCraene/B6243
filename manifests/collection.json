@@ -1,0 +1,13 @@
+{
+  "id" : "https://ValentinDeCraene.github.io/B6243/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in ValentinDeCraene/B6243 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ValentinDeCraene.github.io/B6243/manifests/B6243.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
