@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://ValentinDeCraene.github.io/B6243/manifests/B6243.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "[Registers of Hubert Ghommer (B6243)]",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "[Registers of Hubert Ghommer, baillif of Lille, for the period between the 5th of May 1432 to the 22 of September 1433. Handwritting changed.]",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "[Archives Départementales du Nord]",
   "sequences" : [ {
     "@id" : "http://7a796242-fb5f-412f-8346-57269de3cc84",
     "@type" : "sc:Sequence",
