@@ -42,6 +42,13 @@
         },
         "on" : "http://538b4bfc-63cc-4360-a4fd-1aed148ecf29"
       } ],
+      "otherContent": [
+    {
+        "@id": "https://valentindecraene.github.io/B6243/annotations/annotationsB6243.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+],
       "related" : ""
     } ]
   } ],
