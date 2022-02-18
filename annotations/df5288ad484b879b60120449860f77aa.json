@@ -1,0 +1,121 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Introduction",
+      "@type" : "oa:Tag",
+      "chars" : "Introduction"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Introductory section that indicates the period of time concerned by this register (5th of May 1432 to 22th of September 1432).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Introductory section that indicates the period of time concerned by this register (5th of May 1432 to 22th of September 1432).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T10:35:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644489329198",
+    "dcterms:modified" : "2022-02-10T10:35:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6243/manifests/B6243.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=-1,192,1159,332"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M-0.57571,192.33124h579.31505v0h579.31505v166.13396v166.13396h-579.31505h-579.31505v-166.13396z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c07ba821-f472-4eaa-a61b-a290c7761858\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://538b4bfc-63cc-4360-a4fd-1aed148ecf29"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Initials",
+      "@type" : "oa:Tag",
+      "chars" : "Initials"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Stylized initials",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Stylized initials</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T10:39:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644489545078",
+    "dcterms:modified" : "2022-02-10T10:39:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6243/manifests/B6243.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=42,766,151,113"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M42.40436,765.64625h75.6496v0h75.6496v56.42167v56.42167h-75.6496h-75.6496v-56.42167z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_201a1a60-970e-469a-80ce-3de6d12bbe36\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00ff7d\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://538b4bfc-63cc-4360-a4fd-1aed148ecf29"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Handwriting",
+      "@type" : "oa:Tag",
+      "chars" : "Handwriting"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Initials",
+      "@type" : "oa:Tag",
+      "chars" : "Initials"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "A notable shift in the handwriting with the use of stylized initials.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A notable shift in the handwriting with the use of stylized initials.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T10:38:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644489513213",
+    "dcterms:modified" : "2022-02-10T10:38:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6243/manifests/B6243.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=54,562,129,124"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M53.71491,562.05644h64.33905v0h64.33905v62.07695v62.07695h-64.33905h-64.33905v-62.07695z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_40f90341-e60f-4b2c-8d6e-9ff7cb2cf540\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00ff7d\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://538b4bfc-63cc-4360-a4fd-1aed148ecf29"
+    } ]
+  } ],
+  "@id" : "https://ValentinDeCraene.github.io/B6243/annotations/df5288ad484b879b60120449860f77aa.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
